@@ -1,0 +1,67 @@
+# Image Credits & Licences — StayNest Rishikesh
+
+All photography used across StayNest is 100% genuine photography of **Rishikesh, Uttarakhand, India** (the sacred Ganga River, Laxman Jhula, Ram Jhula, Tapovan, Parmarth Niketan, Triveni Ghat, and Shivpuri). All images are freely licensed under Creative Commons or Public Domain.
+
+> Complete technical manifest with dimensions, subjects, and source URLs is located in [`src/assets/images/manifest.md`](file:///e:/Hotel%20Website/src/assets/images/manifest.md).
+
+No generic European, Alpine, Grand Canyon, or tropical island photography is used. Every image is stored locally as optimized WebP in `src/assets/images/` (Hero: 1920w, Cards & Stays: 800w).
+
+---
+
+| Asset Path | Location & Subject in Rishikesh | Photographer / Creator | License | Wikimedia Source Link |
+| :--- | :--- | :--- | :--- | :--- |
+| `src/assets/images/hero/hero-rishikesh.webp` | Hero - Panoramic Dusk View of Laxman Jhula & Ganga River | Kaustubh Nayyar | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rishikesh-Lakshman_Jhula_by_Kaustubh_Nayyar.jpg) |
+| `src/assets/images/destinations/laxman-jhula.webp` | Laxman Jhula Suspension Bridge over Holy Ganga | Dey.sandip | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Laxman_Jhula_Bridge.jpg) |
+| `src/assets/images/destinations/tapovan.webp` | Tapovan & Beatles Ashram Heritage Satsang Hall in Rishikesh | Guy P Atkinson | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Beatles_Ashram_Satsang_Hall_Rishikesh.JPG) |
+| `src/assets/images/destinations/ram-jhula.webp` | Ram Jhula and Sacred River Ganga Ghats | Krishnav25 | CC0 Public Domain | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ram_jhula_view_of_ganga.jpg) |
+| `src/assets/images/destinations/shivpuri.webp` | Shivpuri Riverside Rafting & Beach Camps on Ganga | Vvnataraj | CC BY-SA 3.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A_rafting_camp_on_the_banks_of_Ganga.JPG) |
+| `src/assets/images/hotels/aloha-1.webp` | Aloha On The Ganges - Emerald Green Riverfront | ShashwatJain99 | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ganga_at_Rishikesh.jpg) |
+| `src/assets/images/hotels/aloha-2.webp` | Aloha On The Ganges - Himalayan Foothills & River Curve | Kaustubh Nayyar | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Embrace_the_Ganges_by_Kaustubh_Nayyar.jpg) |
+| `src/assets/images/hotels/aloha-3.webp` | Aloha On The Ganges - Riverside Heritage Vista | Arpita Tripathy | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tera_manjil_temple,_Laxman_Jhula,_Rishikesh.jpg) |
+| `src/assets/images/hotels/aloha-4.webp` | Aloha On The Ganges - Panoramic Sacred River & Mountain Panorama (CTA Banner) | Kaustubh Nayyar | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Divine_Ganga_(or_Ganges)_River.jpg) |
+| `src/assets/images/hotels/taj-1.webp` | Taj Rishikesh - Dramatic Ganga Valley & Mountain Canyon | Ashok Prabhakaran | CC BY-SA 2.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Devabhoomi.jpg) |
+| `src/assets/images/hotels/taj-2.webp` | Taj Rishikesh - Pristine Holy River at Shivpuri | Dr Satendra | CC BY-SA 3.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:River_Ganges_at_Shivpuri,_Rishikesh.jpg) |
+| `src/assets/images/hotels/taj-3.webp` | Taj Rishikesh - Natural Pebble Riverbank at Shivpuri | Wiki-arun | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flow_of_purity_and_faith.jpg) |
+| `src/assets/images/hotels/taj-4.webp` | Taj Rishikesh - Himalayan Ridge & Sacred Waters | Harshit38 | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Riverganga.jpg) |
+| `src/assets/images/hotels/roseate-1.webp` | The Roseate Ganges - Private River Bend at Shivpuri | Arkadeep Meta | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shivpuri.jpg) |
+| `src/assets/images/hotels/roseate-2.webp` | The Roseate Ganges - White Sand River Beach in Rishikesh | Shubhamanand2580 | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ganga_beach,_Rishikesh.jpg) |
+| `src/assets/images/hotels/roseate-3.webp` | The Roseate Ganges - Forested Himalayan River Gorge | Harshit38 | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_ganges.jpg) |
+| `src/assets/images/hotels/roseate-4.webp` | The Roseate Ganges - Wellness & Hillside Sanctuary | Rishikeshresorts | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Healing_and_fun.JPG) |
+| `src/assets/images/hotels/divine-resort-1.webp` | Divine Resort & Spa - Cliffside View of Laxman Jhula Bridge | Madrishh | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Laxman_jhulaa.jpg) |
+| `src/assets/images/hotels/divine-resort-2.webp` | Divine Resort & Spa - Ghats Overlooking Holy Waters | आशीष_भटनागर | CC BY-SA 3.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ganga_ghats,_Laxman_jhula,_Rishikesh.jpg) |
+| `src/assets/images/hotels/divine-resort-3.webp` | Divine Resort & Spa - Riverfront Terrace & Temple Bells | आशीष_भटनागर | CC BY-SA 3.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ganga_ghats,_Laxman_jhula,_Rishikesh_2.jpg) |
+| `src/assets/images/hotels/divine-resort-4.webp` | Divine Resort & Spa - Hill Pathway to Bridge | Soumya Gupta2706 | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Way_to_Laxman_Jhula,_Rishikesh.jpg) |
+| `src/assets/images/hotels/atali-1.webp` | Atali Ganga - Rafting on Turquoise Ganga Waters | Goutam1962 | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:River_Rafting_in_Ganga_Near_Ram_Jhula_Rishikesh_01.jpg) |
+| `src/assets/images/hotels/atali-2.webp` | Atali Ganga - Whitewater Rapid Expedition | Goutam1962 | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:River_Rafting_in_Ganga_Near_Ram_Jhula_Rishikesh_02.jpg) |
+| `src/assets/images/hotels/atali-3.webp` | Atali Ganga - Himalayan River Navigation | Goutam1962 | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:River_Rafting_in_Ganga_Near_Ram_Jhula_Rishikesh_03.jpg) |
+| `src/assets/images/hotels/atali-4.webp` | Atali Ganga - Adventure Rafting along Green Foothills | Cordavida | CC BY-SA 3.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rishikesh_-_Rafting_%26_Fun_In_Ganga.JPG) |
+| `src/assets/images/hotels/divine-cottage-1.webp` | Divine Ganga Cottage - Boutique River Retreat | Deepanshu Mittall | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Laxman_Jhula,_Rishikesh,_Uttarkhand,_India.jpg) |
+| `src/assets/images/hotels/divine-cottage-2.webp` | Divine Ganga Cottage - Holy River View across Bridge | meg and rahul | CC BY 2.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rishikesh_view_across_bridge.jpg) |
+| `src/assets/images/hotels/divine-cottage-3.webp` | Divine Ganga Cottage - Fresh Mountain Air on the Bank | Pankaj Kumar Singh | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bank_of_ganga_in_rishikesh.jpg) |
+| `src/assets/images/hotels/modi-1.webp` | Modi Yoga Retreat - Lush Gardens at Parmarth Niketan | Ken Wieland | CC BY-SA 2.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gardens_at_Parmarth_Niketan,_Muni_Ki_Reti,_Rishikesh.jpg) |
+| `src/assets/images/hotels/modi-2.webp` | Modi Yoga Retreat - Spiritual Sanctuary on the Holy River | आशीष_भटनागर | CC BY-SA 3.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Parmarth_Niketan,_Rishikesh.jpg) |
+| `src/assets/images/hotels/modi-3.webp` | Modi Yoga Retreat - Parmarth Niketan Grand Courtyard | Billjones94 | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Front_entrance_of_the_Parmarth_Niketan,_in_Rishikesh,_Uttarakhand.jpg) |
+| `src/assets/images/hotels/ganga-beach-1.webp` | Ganga Beach Resort - Direct Riverbank Access | Shubhamanand2580 | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ganga_beach,_Rishikesh.jpg) |
+| `src/assets/images/hotels/ganga-beach-2.webp` | Ganga Beach Resort - Riverside Shrine & Mountain Views | Kanishka Sharma | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A_temple_situated_on_the_banks_of_river_Ganga_at_Rishikesh,_India.jpg) |
+| `src/assets/images/hotels/ganga-beach-3.webp` | Ganga Beach Resort - Holy Beauty of the Riverbank | Abhi713 | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bank_of_ganga_river_showing_the_holy_beauty_rishikesh_temple.jpg) |
+| `src/assets/images/hotels/ellbee-1.webp` | EllBee Ganga View - Evening Ganga Aarti at Triveni Ghat | Chandrasen Yadav | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Ganga_Aarti.jpg) |
+| `src/assets/images/hotels/ellbee-2.webp` | EllBee Ganga View - Holy Lamps and Aarti Ceremonies | Bhuvi Uniyal | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ganga_Arti_At_Triveni_Ghat_In_Rishikesh.jpg) |
+| `src/assets/images/hotels/ellbee-3.webp` | EllBee Ganga View - Panoramic Ghats & Evening Sky | ArmouredCyborg | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aarti_at_Triveni_Ghat_Rishikesh.jpg) |
+| `src/assets/images/hotels/zostel-1.webp` | Zostel Rishikesh - Famous Beatles Ashram Satsang Hall | Guy P Atkinson | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Beatles_Ashram_Satsang_Hall_Rishikesh.JPG) |
+| `src/assets/images/hotels/zostel-2.webp` | Zostel Rishikesh - Creative Street Murals in Rishikesh | Sumita Roy Dutta | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Graffiti_in_the_abandoned_Mahesh_Yogi's_Ashram_Muni-ki-Reti_mostly_by_Beatles_fans_DSCN0011.jpg) |
+| `src/assets/images/hotels/zostel-3.webp` | Zostel Rishikesh - Bohemian Heritage & Greenery | Sumita Roy Dutta | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Graffiti_in_the_abandoned_Mahesh_Yogi's_Ashram_Muni-ki-Reti_mostly_by_Beatles_fans_DSCN0008.jpg) |
+| `src/assets/images/hotels/zostel-plus-1.webp` | Zostel Plus Rishikesh - Mountain Valley Vista | Arpan Mahajan | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rishikesh_(Ganges_View).jpg) |
+| `src/assets/images/hotels/zostel-plus-2.webp` | Zostel Plus Rishikesh - Shivalik Himalayan Foothills | Vinayaraj | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rishikesh_views_-_during_LGFC_-_VOF_2019_(60).jpg) |
+| `src/assets/images/hotels/zostel-plus-3.webp` | Zostel Plus Rishikesh - River Rafting in Valley | Sumita Roy Dutta | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:River_rafting_at_Rishikesh_Photographed_By_Sumita_Roy.jpg) |
+| `src/assets/images/hotels/glasshouse-1.webp` | The Glasshouse on the Ganges - Emerald Riverbend at Kaudiyala | Chakumar | CC BY 3.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ganga_at_Kaudiayala.jpg) |
+| `src/assets/images/hotels/glasshouse-2.webp` | The Glasshouse on the Ganges - Mountain Slopes & River View | Chandrabhan70 | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Near_shivpuri.jpg) |
+| `src/assets/images/hotels/glasshouse-3.webp` | The Glasshouse on the Ganges - Lychee Orchards & Tranquil Waters | Chandrabhan70 | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shivpuri_riahikesh.jpg) |
+| `src/assets/images/hotels/natraj-1.webp` | Hotel Natraj - Broad Ganga River at Rishikesh | bazatop | CC BY-SA 3.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ganges_at_Rishikesh_-_panoramio.jpg) |
+| `src/assets/images/hotels/natraj-2.webp` | Hotel Natraj - Sunset over the Sacred River | McKay Savage | CC BY 2.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:India_-_Rishikesh_-_021_-_sunset_over_the_Ganga_(2090628301).jpg) |
+| `src/assets/images/hotels/natraj-3.webp` | Hotel Natraj - Evening on the Ghats of Rishikesh | McKay Savage | CC BY 2.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:India_-_Rishikesh_-_018_-_evening_on_the_ghats_(2090623627).jpg) |
+| `src/assets/images/hotels/aquaforest-1.webp` | AquaForest Rishikesh - Clear Himalayan Waters at Shivpuri | GuruGulab | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:River_Ganges_shivpuri.jpg) |
+| `src/assets/images/hotels/aquaforest-2.webp` | AquaForest Rishikesh - Bank of the River Ganga | Chandrabhan70 | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rishikesh_shivpuri.jpg) |
+| `src/assets/images/hotels/aquaforest-3.webp` | AquaForest Rishikesh - Rafting Launch Point & Mountains | Goel.tushar042 | CC BY-SA 4.0 | [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rishikesh_rafting_point.jpg) |
+
+---
+*Verified and updated on November 1, 2026*

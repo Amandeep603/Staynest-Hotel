@@ -1,0 +1,206 @@
+[
+  {
+    "page": "Home",
+    "viewport": "1440px (Desktop)",
+    "screenshot": "home-1440.png",
+    "overflow": {
+      "hasOverflow": false,
+      "scrollW": 1425,
+      "clientW": 1440,
+      "offendingElements": []
+    },
+    "brokenImages": {
+      "total": 16,
+      "broken": []
+    },
+    "overlaps": [],
+    "consoleErrors": []
+  },
+  {
+    "page": "Home",
+    "viewport": "1024px (Tablet Land / Small Desk)",
+    "screenshot": "home-1024.png",
+    "overflow": {
+      "hasOverflow": false,
+      "scrollW": 1009,
+      "clientW": 1024,
+      "offendingElements": []
+    },
+    "brokenImages": {
+      "total": 16,
+      "broken": []
+    },
+    "overlaps": [],
+    "consoleErrors": []
+  },
+  {
+    "page": "Home",
+    "viewport": "768px (Tablet Port)",
+    "screenshot": "home-768.png",
+    "overflow": {
+      "hasOverflow": false,
+      "scrollW": 753,
+      "clientW": 768,
+      "offendingElements": []
+    },
+    "brokenImages": {
+      "total": 16,
+      "broken": []
+    },
+    "overlaps": [],
+    "consoleErrors": []
+  },
+  {
+    "page": "Home",
+    "viewport": "390px (Mobile)",
+    "screenshot": "home-390.png",
+    "overflow": {
+      "hasOverflow": false,
+      "scrollW": 390,
+      "clientW": 390,
+      "offendingElements": []
+    },
+    "brokenImages": {
+      "total": 16,
+      "broken": []
+    },
+    "overlaps": [],
+    "consoleErrors": []
+  },
+  {
+    "page": "Hotels",
+    "viewport": "1440px (Desktop)",
+    "screenshot": "hotels-1440.png",
+    "overflow": {
+      "hasOverflow": false,
+      "scrollW": 1425,
+      "clientW": 1440,
+      "offendingElements": []
+    },
+    "brokenImages": {
+      "total": 14,
+      "broken": []
+    },
+    "overlaps": [],
+    "consoleErrors": []
+  },
+  {
+    "page": "Hotels",
+    "viewport": "1024px (Tablet Land / Small Desk)",
+    "screenshot": "hotels-1024.png",
+    "overflow": {
+      "hasOverflow": false,
+      "scrollW": 1009,
+      "clientW": 1024,
+      "offendingElements": []
+    },
+    "brokenImages": {
+      "total": 14,
+      "broken": []
+    },
+    "overlaps": [],
+    "consoleErrors": []
+  },
+  {
+    "page": "Hotels",
+    "viewport": "768px (Tablet Port)",
+    "screenshot": "hotels-768.png",
+    "overflow": {
+      "hasOverflow": false,
+      "scrollW": 753,
+      "clientW": 768,
+      "offendingElements": []
+    },
+    "brokenImages": {
+      "total": 14,
+      "broken": []
+    },
+    "overlaps": [],
+    "consoleErrors": []
+  },
+  {
+    "page": "Hotels",
+    "viewport": "390px (Mobile)",
+    "screenshot": "hotels-390.png",
+    "overflow": {
+      "hasOverflow": false,
+      "scrollW": 390,
+      "clientW": 390,
+      "offendingElements": []
+    },
+    "brokenImages": {
+      "total": 14,
+      "broken": []
+    },
+    "overlaps": [],
+    "consoleErrors": []
+  },
+  {
+    "page": "HotelDetails",
+    "viewport": "1440px (Desktop)",
+    "screenshot": "hoteldetails-1440.png",
+    "overflow": {
+      "hasOverflow": false,
+      "scrollW": 1425,
+      "clientW": 1440,
+      "offendingElements": []
+    },
+    "brokenImages": {
+      "total": 4,
+      "broken": []
+    },
+    "overlaps": [],
+    "consoleErrors": []
+  },
+  {
+    "page": "HotelDetails",
+    "viewport": "1024px (Tablet Land / Small Desk)",
+    "screenshot": "hoteldetails-1024.png",
+    "overflow": {
+      "hasOverflow": false,
+      "scrollW": 1009,
+      "clientW": 1024,
+      "offendingElements": []
+    },
+    "brokenImages": {
+      "total": 4,
+      "broken": []
+    },
+    "overlaps": [],
+    "consoleErrors": []
+  },
+  {
+    "page": "HotelDetails",
+    "viewport": "768px (Tablet Port)",
+    "screenshot": "hoteldetails-768.png",
+    "overflow": {
+      "hasOverflow": false,
+      "scrollW": 753,
+      "clientW": 768,
+      "offendingElements": []
+    },
+    "brokenImages": {
+      "total": 4,
+      "broken": []
+    },
+    "overlaps": [],
+    "consoleErrors": []
+  },
+  {
+    "page": "HotelDetails",
+    "viewport": "390px (Mobile)",
+    "screenshot": "hoteldetails-390.png",
+    "overflow": {
+      "hasOverflow": false,
+      "scrollW": 390,
+      "clientW": 390,
+      "offendingElements": []
+    },
+    "brokenImages": {
+      "total": 4,
+      "broken": []
+    },
+    "overlaps": [],
+    "consoleErrors": []
+  }
+]
